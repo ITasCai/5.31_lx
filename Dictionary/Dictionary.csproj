@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D276288A-6F41-4258-A5E4-3267B41240AE}</ProjectGuid>
+    <ProjectGuid>{0E754AA2-0643-4F3C-B17A-73E9D02782BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_5._31_lx</RootNamespace>
-    <AssemblyName>5.31_lx</AssemblyName>
+    <RootNamespace>Dictionary</RootNamespace>
+    <AssemblyName>Dictionary</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayDeam.cs" />
-    <Compile Include="Method.cs" />
-    <Compile Include="People.cs" />
-    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

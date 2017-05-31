@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.31_lx", "5.31_lx\5.31_lx.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举和迭代器", "枚举和迭代器\枚举和迭代器.csproj", "{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDeam", "ListDeam\ListDeam.csproj", "{830C4250-2493-4A93-B638-CE3E6BA12AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{0E754AA2-0643-4F3C-B17A-73E9D02782BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830C4250-2493-4A93-B638-CE3E6BA12AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830C4250-2493-4A93-B638-CE3E6BA12AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830C4250-2493-4A93-B638-CE3E6BA12AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830C4250-2493-4A93-B638-CE3E6BA12AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E754AA2-0643-4F3C-B17A-73E9D02782BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E754AA2-0643-4F3C-B17A-73E9D02782BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E754AA2-0643-4F3C-B17A-73E9D02782BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E754AA2-0643-4F3C-B17A-73E9D02782BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
