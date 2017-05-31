@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.31_lx", "5.31_lx\5.31_lx.csproj", "{D276288A-6F41-4258-A5E4-3267B41240AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举和迭代器", "枚举和迭代器\枚举和迭代器.csproj", "{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D276288A-6F41-4258-A5E4-3267B41240AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D276288A-6F41-4258-A5E4-3267B41240AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D276288A-6F41-4258-A5E4-3267B41240AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D748EA-4C46-4FD5-B443-7CEDE3A57372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
